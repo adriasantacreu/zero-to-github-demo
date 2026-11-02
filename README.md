@@ -1,7 +1,9 @@
-# Zero to GitHub demo
+# Zero to GitHub, versió exemple
 
 Repositori de demostració del curs «From Zero to GitHub».
 
 - Mostra com és un repositori públic.
 - Serveix per practicar commits, branques i pull requests.
 - No conté dades personals ni secrets.
+
+Aquesta línia s'ha afegit a la branca exemple.
