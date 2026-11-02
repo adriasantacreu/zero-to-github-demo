@@ -1,4 +1,4 @@
-# Zero to GitHub demo
+# Zero to GitHub, versió exemple
 
 Repositori de demostració del curs «From Zero to GitHub».
 
